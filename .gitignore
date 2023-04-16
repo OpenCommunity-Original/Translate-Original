@@ -1,0 +1,11 @@
+# exclude all by default
+*
+!.gitignore
+!*/
+
+!IP/Messages/
+!UltimateClaims/Messages/
+!RetrosLodestones/Messages/
+!GoodTrade/Messages/
+!GoodModeration/Messages/
+!Chatty/Messages/
