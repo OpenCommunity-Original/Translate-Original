@@ -3,9 +3,9 @@
 !.gitignore
 !*/
 
-!IP/Messages/
-!UltimateClaims/Messages/
-!RetrosLodestones/Messages/
-!GoodTrade/Messages/
-!GoodModeration/Messages/
-!Chatty/Messages/
+!IP/Messages/*.lang
+!UltimateClaims/Messages/*.lang
+!RetrosLodestones/Messages/*.lang
+!GoodTrade/Messages/*.lang
+!GoodModeration/Messages/*.lang
+!Chatty/Messages/*.lang
