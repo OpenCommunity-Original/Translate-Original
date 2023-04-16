@@ -1,6 +1,7 @@
 # exclude all by default
 *
 !.gitignore
+!readme.md
 !*/
 
 !IP/Messages/*.lang
