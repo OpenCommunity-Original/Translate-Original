@@ -244,7 +244,7 @@ styles:
 
 scoreboard:
 
-  title: "<#FF6464><bold>Infinite Parkour"
+  title: "<#FF6464><bold>Walk in the park"
 
   lines:
     - "<blue>"
@@ -252,7 +252,7 @@ scoreboard:
     - "<#F6A8A8>Time <white>%time%"
     - "<#F6A8A8>Highscore <white>%high_score%"
     - "<red>"
-    - "<#FF6464><bold>server.ip"
+    - "<#FF6464><bold>GoodMC Original"
 
 other:
 
