@@ -1,0 +1,12 @@
+welcome_message:
+    - ''
+    - '&#FFA500&l Witaj w Original!'
+    - '&#FFA500&l Teraz znajdujesz się w losowej lokalizacji i możesz rozpocząć swoją przygodę!'
+    - ''
+    - '[button:command:tp %player% -262 118 -201, format:BOLD, color:#b651fe,  [ Chcę zacząć z SPAWN ]]'
+    - '[button:https://discord.gg/HWPAExBt3A, format:BOLD, color:#5f51fe,  [ Dołącz do naszego Discorda ]]'
+    - ''
+    - '[button:book:rules, format:BOLD, color:#f0fe51,  [ Zobacz nasze zasady ]]'
+    - ''
+
+rules: '[{"text":"Witaj na GoodMC!\n\nTo serwer Minecraft oferujący w pełni bezpłatną rozgrywkę bez darowizn lub griefingu. Serwer ma przyjazną i inkludującą społeczność, w której gracze mogą cieszyć się wyzwaniem przetrwania w trybie hardcore.\n","color":"#00aedb","clickEvent":{"action":"open_url","value":"https://discord.gg/HWPAExBt3A"}},{"text":"Zasady społeczności GoodMC:\n\nGoodMC to serwer stworzony przez społeczność, gdzie gracze mogą eksplorować, tworzyć i współpracować. Ważne jest szanowanie granic i zgody każdej osoby w budowaniu oraz interakcjach społecznych.","color":"#f37735"},{"text":"&l1. Zachowaj odpowiednie zachowanie: Traktuj innych z szacunkiem i godnością, komunikuj się inteligentnie i powstrzymaj się od obrażania lub naciskania na innych.\n\n","color":"#ffc425"},{"text":"&l2. Nie ingeruj: Nie buduj nad, pod, ani obok budynków innych graczy bez ich wyraźnej zgody, aby szanować prywatną przestrzeń i granice.\n\n","color":"#00b159"},{"text":"&l3. Brak niszczenia: Celowe szkodzenie innym graczom lub środowisku jest zabronione, a gracze powinni dbać o krajobraz i struktury innych graczy.\n\n","color":"#00aedb"},{"text":"&l4. Graj odpowiedzialnie: Podczas zabawy i eksploracji możliwości, łamanie prawa, używanie nielegalnego oprogramowania lub wykorzystywanie błędów / glitchy nie jest dozwolone.","color":"#f37735"}]'
